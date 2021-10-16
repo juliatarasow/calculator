@@ -1,2 +1,2 @@
-# calulator
+# calculator
 vanilla JavaScript exercise
